@@ -44,4 +44,5 @@ Traveller.prototype.calculateTotalDistanceTravelled = function () {
 // };
 
 
+
 module.exports = Traveller;
